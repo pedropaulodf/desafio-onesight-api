@@ -13,7 +13,7 @@
     "mongoose": "^5.10.15"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "yarn install && node app.js"
   },
   "type": "module"
 }
